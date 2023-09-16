@@ -1,0 +1,78 @@
+body{
+    background: #e8edf0;
+    font-family: 'Mooli', sans-serif;
+}
+
+.main{
+    height: 480px;
+    background-image: url("images/lahore.jpg");
+    background-size: cover;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+h1{
+
+    background:#5d8aa8;
+   margin-top: 100px;
+   padding: 6px 10px 6px 10px;
+   border-radius: 4px;
+}
+#head2{
+    background:#063970;
+    margin-top: 20px;
+    padding: 8px 10px 8px 10px;
+    border-radius: 4px;
+}
+.container{
+    background: #e8edf0; 
+    height:400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 40px;
+}
+#bff-img{
+    width: 250px;
+    border-radius: 50%;
+}
+.item{
+    height:250px;
+    width:250px;
+    text-align: center;
+
+}
+#img-pic{
+    width: 200px;
+}
+    
+.part{
+    background: rgb(233, 199, 204);
+    height: 350px;
+    margin-top: 60px;
+    padding-top: 150px;
+}
+
+.id-card{
+    background: lightblue;
+     padding: 20px;
+     width:400px;
+     margin-left: auto;
+     margin-right: auto;
+    
+
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    border-bottom: 4px solid rgb(202, 120, 202);
+    
+    
+    
+   
+
+}
+
